@@ -14,11 +14,11 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
-  - 
-  - 
+  - ai
+  - player
+  - wall
+  - carrot
+  - particle
   - 
   - 
   - 
