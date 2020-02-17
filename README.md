@@ -2,6 +2,11 @@
 
 A game that sees the player move a rabbit around a maze, eating carrots, and avoiding wolves.
 
+![GIF Demo of Wildermaze](demo.gif)
+
+- ![Play now in the browser](https://jasonliang512.github.io/wildermaze/)
+- ![Download for Windows](https://github.com/jasonliang512/wildermaze/releases)
+
 ## How to play
 
 You control a rabbit. Move around with WASD or the arrow keys. Avoid wolves
