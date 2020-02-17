@@ -2,7 +2,9 @@
 
 A game that sees the player move a rabbit around a maze, eating carrots, and avoiding wolves.
 
-![GIF Demo of Wildermaze](demo.gif)
+<p align="center">
+  <img alt="Gif Demo of Wildermaze" src="demo.gif" />
+</p>
 
 - ![Play now in the browser](https://jasonliang512.github.io/wildermaze/)
 - ![Download for Windows](https://github.com/jasonliang512/wildermaze/releases)
