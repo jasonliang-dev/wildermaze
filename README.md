@@ -6,8 +6,8 @@ A game that sees the player move a rabbit around a maze, eating carrots, and avo
   <img alt="Gif Demo of Wildermaze" src="demo.gif" />
 </p>
 
-- [Play now in the browser](https://jasonliang512.github.io/wildermaze/)
-- [Download for Windows](https://github.com/jasonliang512/wildermaze/releases)
+- [Play now in the browser](https://jasonliang-dev.github.io/wildermaze/)
+- [Download for Windows](https://github.com/jasonliang-dev/wildermaze/releases)
 
 ## How to play
 
